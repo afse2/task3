@@ -35,4 +35,4 @@ Karşınızda Koyun Dolly değil Bootstrap Linkedin!
 - Bu bölümdeki linkler yan yana olmalı.
 - Mesajlaşmanın genişliği `300px` olmalı, arkaplanı beyaz olmalı.
 
-![newborn]()
+![newborn](https://github.com/afse2/task3/blob/main/figures/linkedinClone.png)
