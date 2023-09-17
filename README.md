@@ -2,15 +2,10 @@
 
 ## Bootstrap Linkedin Clone
 
-Günümüzde iş hayatının Facebook'u, biznısınızın göbeği olan Linkedin çok sık kullanılmakta. Eğer bir Linkedin hesabınız yoksa hemen oluşturmanızı öneririz. Network bizim mesleğimizde ekstra daha çok önemli. Bu güzel sitenin muhteşem bir cloneunu Kodluyoruz mühendislerimiz uzun uğraşlar sonucu yapmayı başardı. Karşınızda Koyun Dolly değil Bootstrap Linkedin!
-
-![linkedin](https://github.com/Kodluyoruz/taskforce/raw/main/bootstrap/odev3/figures/linkedin.gif)
-
-Yine bir vicdansızlık yaparak size temel olarak vereceğimiz projeyi şuna dönüştürdük.
+Karşınızda Koyun Dolly değil Bootstrap Linkedin!
 
 ![garibanlinkedin](https://github.com/Kodluyoruz/taskforce/raw/main/bootstrap/odev3/figures/garibanlinkedin.gif)
 
-Temel dosyalara [şuradan](https://drive.google.com/drive/folders/1lfKEULLlx_4jUti8sL2WaZQVz6P5F5hc?usp=sharing) ulaşabilirsiniz.
 
 - Navbar yukarıya sabitlenmemiş durumda ve kenarlığı yok. Bunları düzeltiniz.
 - Logoya soldan boşluk ayarlayınız.
@@ -19,11 +14,6 @@ Temel dosyalara [şuradan](https://drive.google.com/drive/folders/1lfKEULLlx_4jU
 - Menülerdeki yazıları ve ikonları ortalayın.
 - `Ben` kategorisini diğer kategori isimleri gibi düzenleyiniz ve profil fotoğrafını düzeltiniz.
 - Navbar'da bir değişiklik görüyor musunuz? Navbar'ın yüzüne ne olmuş yahu?
-
-![nolmus](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/bootstrap/odev3/figures/nolmus.jpg)
-
-Biz de onu soruyoruz işte ne olmuş?
-
 * Navbar'ı yukarı sabitleyince fark etmişsinizdir ki içerik biraz yukarıda kalıyor. O yüzden yukarıdan biraz boşluk bırakın.
 - İçerik biraz geniş kalmış sanki, toplamak için ne kullanabiliriz? `İpucu: Layout`
 - Responsive yapı için sol panele 2 birim, orta panele 6 birim, sağ panele de 3 birim veriniz. Bütün boyutlarda aynı ölçü geçerli olsun.
