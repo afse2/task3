@@ -35,6 +35,4 @@ Karşınızda Koyun Dolly değil Bootstrap Linkedin!
 - Bu bölümdeki linkler yan yana olmalı.
 - Mesajlaşmanın genişliği `300px` olmalı, arkaplanı beyaz olmalı.
 
-İçeriğinde çok şey var diye paniğe kapılmayın, sırayla gittiğinizde her şeyin çok seri şekilde geleceğine emin olabilirsiniz.
-
-Hepinize başarılar ve kolay gelsin.
+![newborn]()
