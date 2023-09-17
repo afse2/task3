@@ -6,7 +6,7 @@ Karşınızda Koyun Dolly değil Bootstrap Linkedin!
 
 ![garibanlinkedin](https://github.com/Kodluyoruz/taskforce/raw/main/bootstrap/odev3/figures/garibanlinkedin.gif)
 
-
+### Fixed This Issues
 - Navbar yukarıya sabitlenmemiş durumda ve kenarlığı yok. Bunları düzeltiniz.
 - Logoya soldan boşluk ayarlayınız.
 - Arama alanına sağdan boşluk bırakınız ve placeholder'ini düzeltiniz.
